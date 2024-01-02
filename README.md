@@ -7,58 +7,56 @@
  * @FilePath: \3.0-Course-Name_Coursera_Template\README.md
 -->
 
-Descritpion Template
-Quizzes & Assignment Solutions for Entire $(Course Name) on Coursera. Also included a few resources on side that I found helpful.
-
-Common Tag: data-science, python, data-visualization, cousera, assignment-solution, quiz, sql, data-analytics, excel
-
 <a href="https://github.com/bdfd"><img src="https://img.shields.io/github/followers/bdfd?label=Follow%20Me&logo=github" alt="GitHub Followers" /></a>
-![ViewCount](<https://views.whatilearened.today/views/github/$(github_user)/$(repo_address).svg?cache=remove>)
-![GitHub top language](<https://img.shields.io/github/languages/top/$(github_user)/$(repo_address)?style=flat>)
+![ViewCount](https://views.whatilearened.today/views/github/BDFD-LearningGround/Cousera_Applied-Data-Science-with-Python-Specialization-OP.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/$BDFD-LearningGround/Cousera_Applied-Data-Science-with-Python-Specialization-OP?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/BDFD-LearningGround/IBM-Data-Analyst-Professional-Certificate_Coursera_?style=flat)
-![GitHub language count](<https://img.shields.io/github/languages/count/$(github_user)/$(repo_address)?style=flat>)
-<img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" />
 <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/On_Progress.svg" alt="bdfd" />
 
-# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>$(Course-NAME{Coursera})[![View My Profile]
+<!-- <img height=20 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/7.Color-Icon/Status/Finish.svg" alt="bdfd" /> -->
+
+# <a href="https://github.com/bdfd"><img height=40 src="https://cdn.jsdelivr.net/gh/bdfd/Personal_Image_Repo/4.Stamp/BDFD_Stamp.png" alt="GitHub Followers" /></a>Applied Data Science with Python Specialization
 
 ## About This Course/Certificate
 
-About This workshop and the materials in this repo are for anyone who is interested in working with Data Science to produce high quality, working style! Check out follow course link if you think it is interested.
+The 5 courses in this University of Michigan specialization introduce learners to data science through the python programming language. This skills-based specialization is intended for learners who have a basic python or programming background, and want to apply statistical, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain insight into their data.
 
-**Course Link:** [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
+Introduction to Data Science in Python (course 1), Applied Plotting, Charting & Data Representation in Python (course 2), and Applied Machine Learning in Python (course 3) should be taken in order and prior to any other course in the specialization. After completing those, courses 4 and 5 can be taken in any order. All 5 are required to earn a certificate.
+
+**Course Link:** [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 ## Course Learn Path
 
 The courses enlisted as follows:
 
-- [x] **C1-**
-- [x] **C2-**
-- [ ] **C3-**
+- [ ] **C1-Introduction to Data Science in Python**
+- [ ] **C2-Applied Plotting, Charting & Data Representation in Python**
+- [ ] **C3-Applied Machine Learning in Python**
+- [ ] **C4-Applied Text Mining in Python**
+- [ ] **C5-Applied Social Network Analysis in Python**
 
-## Course Description: 1 Course
+## Course Description: 5 Course
 
-<img height="27" src="https://img.shields.io/badge/test 1 -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 2 -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<img height="27" src="https://img.shields.io/badge/test 3-Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
-<br/>
-Data science courses contain math—no avoiding that! This course is designed to teach learners the basic math you will need in order to be successful in almost any data science math course and was created for learners who have basic math skills but may not have taken algebra or pre-calculus. Data Science Math Skills introduces the core math that data science is built upon, with no extra complexity, introducing unfamiliar ideas and math symbols one-at-a-time.
+- Learn in-demand skills from university and industry experts
+- Master a subject or tool with hands-on projects
+- Develop a deep understanding of key concepts
+- Earn a career certificate from University of Michigan
 
 ## Applied Learning Project
 
-**Tools:** Jupyter / JupyterLab, GitHub,
+**Tools:** Jupyter / JupyterLab, Text Mining
 
-**Libraries:** Pandas, NumPy
+**Libraries:** Pandas, NumPy, Matplotlib
 
-**Projects:** ABC Project Name
+**Projects:** Applied Data Science with Python Specialization
 
 #### Useful Resources
 
-- [Course Link](https://www.coursera.org/professional-certificates/ibm-data-science)
+- [Course Link](https://www.coursera.org/specializations/data-science-python)
 
 ## Course Certificate
 
-Total Hours: ~13 Hrs
+Total Hours: ~160 Hrs(4 months at 10 hours a week)
 
 <div align="center">
 
